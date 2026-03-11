@@ -1,7 +1,7 @@
 # Portfolio  
 **現場の課題をITで仕組み化し、業務改善を実現するエンジニアを目指しています**  
   
-日常の不便を放置せず、AIやIoTを組み合わせて「解決する仕組み」を作るのが好きです。  
+不便を放置せず、AIやIoTを組み合わせて「解決する仕組み」を作るのが好きです。  
 
   ---
   
@@ -14,7 +14,7 @@
 - **Language**：C++（Arduino IDE）/ Google Apps Script
 - **Integrations**：Discord Webhook / Nature Remo
 
-[Repository](https://github.com/h-kanno-dev/shiitake-sensor)  
+[🔗Repository](https://github.com/h-kanno-dev/shiitake-sensor)  
 
   ---
   
@@ -27,14 +27,14 @@ LINEで送った文章から日時・場所・詳細などを自動抽出し、�
 - **Platform**：Google Apps Script
 - **Integrations**：LINE Messaging API / Google Calendar API
 
-[Repository](https://github.com/h-kanno-dev/dAIly)  
+[🔗Repository](https://github.com/h-kanno-dev/dAIly)  
 
   ---
   
 ## 🛠️Skills & Tools
 ### Language & Platform  
 - **Google Apps Script**：現在のメイン開発環境。日常の自動化やAPI連携のメインツールとして活用。
-- **Python**：LINE Bot開発（Render運用）の経験あり。ランニングコストに課題を感じ、現在のGASへリファクタリングを実施。
+- **Python**：LINE Bot開発の経験あり。Render運用時に発生していた手動での認証更新を簡略化するため、現在のGASへ移行。
 - **Java / PHP / SQL**：職業訓練にてWebアプリのCRUDを習得。エラーと向き合いながらも一貫した開発工程を経験。
 - **C++（Arduino IDE）**：ESP8266による電子工作の実装に使用。ハードウェアとソフトの連携を経験。
 ### AI Pairing Development
