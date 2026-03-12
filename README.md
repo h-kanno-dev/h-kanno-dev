@@ -14,7 +14,7 @@
 - **Language**：C++（Arduino IDE）/ Google Apps Script
 - **Integrations**：Discord Webhook / Nature Remo
 
-[🔗Repository](https://github.com/h-kanno-dev/shiitake-sensor)  
+[🔗Repository](https://github.com/h-kanno-dev/shiitake_sensor)  
 
   ---
   
