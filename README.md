@@ -23,7 +23,7 @@
 LINEで送った文章から日時・場所・詳細などを自動抽出し、カレンダー登録とリマインドを行うLINE Botです。  
 
 **技術**  
-- **AI**：Gemini API
+- **AI**：Gemini Flash（Latest）
 - **Platform**：Google Apps Script
 - **Integrations**：LINE Messaging API / Google Calendar API
 
